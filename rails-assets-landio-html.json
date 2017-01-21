@@ -1,0 +1,32 @@
+{
+  "name": "rails-assets-landio-html",
+  "downloads": null,
+  "version": "1.2.7",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "Landio is a responsive HTML template, built on top of Bootstrap 4 and based on the Land.io Sketch design by Peter Finlan. This template and the UI kit were coded by Taty Grassini.",
+  
+  "licenses": "Codrops custom Licence",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "http://tatygrassini.github.io/landio-html",
+  "gem_uri": null,
+  "homepage_uri": "http://tatygrassini.github.io/landio-html",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "http://tatygrassini.github.io/landio-html",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}
